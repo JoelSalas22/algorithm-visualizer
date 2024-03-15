@@ -1,0 +1,531 @@
+repo_name: JoelSalas22/algorithm-visualizer
+report_id: 7123a557d2da6065f4693b63153bd90c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:55:58+00:00'
+requested_by: thomasthomas882
+provider: github
+branch: master
+detected_tools_count: 38
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer
+  detection_source: Repo Metadata
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.8.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.8.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: nem035
+  last_updated_on: 2016-05-29 02:56:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: nem035
+  last_updated_on: 2016-05-29 02:56:16.000000000 Z
+- name: Bluebird
+  description: A full featured promise library with unmatched performance
+  website_url: https://github.com/petkaantonov/bluebird/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2018-12-12 01:43:17.000000000 Z
+- name: Brace
+  description: Host static websites from the comfort of Dropbox
+  website_url: http://brace.io/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/730/FmOfEvH3.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2018-04-12 12:14:11.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: "@fortawesome/fontawesome"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome
+  version: 1.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18601/default_3397f11bde97ca8f2273691776ca19b846d4097a.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 1.2.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: brace
+  description: Browserify compatible version of the ace editor
+  package_url: https://www.npmjs.com/brace
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17373/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2018-04-12 12:14:11.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2018-04-30 07:07:20.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Wizard-F
+  last_updated_on: 2022-04-13 02:03:13.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: query-string
+  description: Parse and stringify URL query strings
+  package_url: https://www.npmjs.com/query-string
+  version: 6.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-ace
+  description: A react component for Ace Editor
+  package_url: https://www.npmjs.com/react-ace
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18432/default_090197a87d306c919c7dbc09bfedd02e3b061236.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.8.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-input-autosize
+  description: Auto-resizing Input Component for React
+  package_url: https://www.npmjs.com/react-input-autosize
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18666/default_1447f752e44dcab548fdc4c7e03b0c9dc95f5c4a.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-router
+  description: A complete routing library for React
+  package_url: https://www.npmjs.com/react-router
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-router-redux
+  description: Redux bindings for React Router
+  package_url: https://www.npmjs.com/react-router-redux
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16495/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: redbox-react
+  description: A redbox
+  package_url: https://www.npmjs.com/redbox-react
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16989/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: redux-actions
+  description: Flux Standard Action utlities for Redux
+  package_url: https://www.npmjs.com/redux-actions
+  version: 2.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16990/default_a753a22aef103e9dbba3f82f20c705e33d009143.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: screenfull
+  description: Simple wrapper for cross-browser usage of the JavaScript Fullscreen
+    API
+  package_url: https://www.npmjs.com/screenfull
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17952/default_d8903d76dded6915fe2da53370802097e7af05c2.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
+- name: sprintf-js
+  description: JavaScript sprintf implementation
+  package_url: https://www.npmjs.com/sprintf-js
+  version: 1.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16880/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-01-24 19:06:15.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/JoelSalas22/algorithm-visualizer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Park
+  last_updated_on: 2019-06-08 17:58:26.000000000 Z
